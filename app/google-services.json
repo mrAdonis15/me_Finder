@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382116544066",
+    "project_id": "med-finder-35797",
+    "storage_bucket": "med-finder-35797.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382116544066:android:b6750b6a15b1d005d577db",
+        "android_client_info": {
+          "package_name": "com.example.me_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382116544066-qhgjdmv5vkf01ij9gtut61f5nnu2l3iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASgXIl8DnkII15WDGzoOrLWg_WxNlE8Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382116544066-qhgjdmv5vkf01ij9gtut61f5nnu2l3iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
